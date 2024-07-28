@@ -1,4 +1,5 @@
-
+"""simple program used the previous modules
+ i learned to make something new"""
 import pyautogui
 import time
 import winsound
